@@ -1,9 +1,9 @@
 ## Requirements
 
-Installation of [Activator](http://scala-lang.org/download/)
+Installation of [SBT](http://www.scala-sbt.org/download.html)
 
-## Installation
+## Installation & Running
 
 1. Clone project
 2. `cd fun-with-option`
-3. `activator test`
+3. `sbt test`

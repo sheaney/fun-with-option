@@ -1,3 +1,5 @@
+package com.example
+
 import org.scalatest._
 
 class OptionSpec extends FlatSpec with Matchers {
